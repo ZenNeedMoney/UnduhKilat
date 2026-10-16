@@ -1,0 +1,6 @@
+{
+  "name": "UnduhKilat - Download Manager Modern",
+  "description": "Manajer unduhan file canggih dengan fitur jeda & lanjutkan, penjadwalan hemat kuota otomatis, integrasi deteksi link browser, enkripsi keamanan file, dan mode hemat baterai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
